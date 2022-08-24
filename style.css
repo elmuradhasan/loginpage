@@ -188,3 +188,6 @@ select{
 .flex input{
     margin-right: 6px;
 }
+.not_div{
+    height: 330px !important;
+}

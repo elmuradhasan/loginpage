@@ -57,11 +57,11 @@
       font-size: 10px;
   }
   .custom_input,.email_input,.easy{
-      padding: 4px 10px;
+      padding: 5px 10px;
       font-size: 12px;
   }
   select{
-    padding: 3px;
+    padding: 4px;
 }
   .custom_input::placeholder,.email_input::placeholder,.easy::placeholder{
       font-size:12px ;
