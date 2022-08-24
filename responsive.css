@@ -1,0 +1,116 @@
+@media (max-width:1115px) {
+    .hr_element{
+        font-size:28px;
+    }
+    .nav-link span b{
+        display: none;
+    }
+    .ldap_header{
+        font-size: 24px;
+    }
+    .parol_save span,a{
+        font-size: 14px;
+    }
+}
+@media (max-width:1010px) {
+    .hr_element{
+        font-size:24px;
+    }
+    .nav-link {
+        font-size:14px;
+    }
+}
+@media (max-width:980px) {
+    .custom_input,.email_input,.easy{
+        padding: 6px 10px;
+    }
+    select{
+        padding: 8px 10px;
+    }
+    .custom_input::placeholder,.email_input::placeholder,.easy::placeholder{
+          font-size:14px ;
+    }
+    .tab-pane button {
+        font-size:14px;
+        padding: 6px 10px;
+    }
+    .parol_save span,a{
+        font-size: 12px;
+    }
+    .ldap_header{
+      margin-top: -30px;
+    }
+    .proyslogo{
+       width: 250px;
+    }
+}
+@media (max-width:930px) {
+    .nav-link{
+        font-size: 12px;
+    }
+    .hr_element{
+        font-size:20px;
+    }
+    }
+@media (max-width:845px) {
+  .nav-link{
+      font-size: 10px;
+  }
+  .custom_input,.email_input,.easy{
+      padding: 4px 10px;
+      font-size: 12px;
+  }
+  select{
+    padding: 3px;
+}
+  .custom_input::placeholder,.email_input::placeholder,.easy::placeholder{
+      font-size:12px ;
+}
+  .hr_element{
+      font-size:16px;
+  }
+  .parol_save span,a{
+      font-size: 10px;
+  }
+  }
+  @media (max-width:760px) {
+    .nav-link span{
+       display: none;
+    }
+    .nav-link i{
+       font-size: 15px;
+     }
+     .parol_save span,a{
+        font-size: 9px;
+    }  
+    .ldap_header{
+        font-size:16px;
+    }
+}
+@media (max-width:630px) {
+     .parol_save span,a{
+        font-size: 8px;
+    }  
+    .flex input{
+        margin-right: 4px;
+    }
+}
+@media (max-width:630px) {
+    .path_form{
+        width: 100%;
+    }
+    .path_logo{
+        width: 0px;
+    }
+    .path_logo img{
+       display: none;
+    }
+    .parol_save span,a{
+        font-size: 12px;
+    }  
+}
+@media (max-width:630px) {
+    .parol_save span,a{
+        font-size: 8px;
+    }  
+}
